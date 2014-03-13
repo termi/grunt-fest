@@ -26,7 +26,7 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "fest": "0.8.2"
+        "fest": "git://github.com/termi/fest.git#i18n-plural"
     },
     "devDependencies": {
         "grunt-contrib-jshint": "0.7.2",
