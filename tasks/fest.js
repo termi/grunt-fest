@@ -20,7 +20,7 @@ module.exports = function (grunt) {
     grunt.registerMultiTask('fest', 'Compile Fest templates', function () {
 
         var options = this.options({
-                require: 'fest',
+                require: 'fest-next',
                 ext: '.js'
             }),
             extname = path.extname,
