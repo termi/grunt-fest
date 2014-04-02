@@ -15,7 +15,7 @@ npm install grunt-fest --save-dev
 One the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-fest');
+grunt.loadNpmTasks('grunt-fest-next');
 ```
 
 ## The "fest" task
